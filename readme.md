@@ -11,7 +11,7 @@ This repository contains data analytics projects developed while I was studying 
 4. [Exploratory Data Analysis](#4-exploratory-data-analysis)
 5. [Model Development](#5-model-development)
 6. [Model Evaluation and Refinement](#6-model-evaluation-and-refinement)
-7. [Automated EDA and Data Preparation](#7-automated-eda-and-data-preparation)
+7. [Data Preparation and Dashboards](#7-Data-preparation-and-Dashboards)
 8. [Final Project: House Sales in King County, USA](#8-final-project-house-sales-in-king-county-usa)
 
 ## Projects
@@ -40,7 +40,8 @@ This repository contains data analytics projects developed while I was studying 
 - **File:** `Model_Evaluation_and_Refinement.ipynb`
 - **Description:** Focuses on evaluating model performance and tuning hyperparameters.
 
-### 7. Automated EDA and Data Preparation
+### 7. Data preparation and Dashboards
+-**NOTE THAT GITHUB WILL NOT RENDER THE DASHBOARDS WELL, TRY OPENING LOCALLY.**
 - **File:** `Auto_EDA_Dataprep.ipynb`
 - **Description:** Utilizes automated tools for exploratory data analysis and data preparation.
 

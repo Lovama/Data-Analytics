@@ -11,7 +11,7 @@ This repository contains data analytics projects developed while I was studying 
 4. [Exploratory Data Analysis](#4-exploratory-data-analysis)
 5. [Model Development](#5-model-development)
 6. [Model Evaluation and Refinement](#6-model-evaluation-and-refinement)
-7. [Data Preparation and Dashboards](#7-Data-preparation-and-Dashboards) -NOTE THAT GITHUB WILL NOT RENDER THE DASHBOARDS WELL, TRY OPENING LOCALLY.
+7. [Data Preparation and Dashboards](#7-Data-preparation-and-Dashboards) - NOTE THAT GITHUB WILL NOT RENDER THE DASHBOARDS WELL, TRY OPENING LOCALLY.
 8. [Final Project: House Sales in King County, USA](#8-final-project-house-sales-in-king-county-usa)
 
 ## Projects

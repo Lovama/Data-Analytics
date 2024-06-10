@@ -42,8 +42,8 @@ This repository contains data analytics projects developed while I was studying 
 
 ### 7. Data preparation and Dashboards
 -**NOTE THAT GITHUB WILL NOT RENDER THE DASHBOARDS WELL, TRY OPENING LOCALLY.**
-- **File:** `Auto_EDA_Dataprep.ipynb`
-- **Description:** Utilizes automated tools for exploratory data analysis and data preparation.
+- **File:** `Dataprep_Dataviz.ipynb`
+- **Description:** Utilizes automated tools for exploratory data analysis and data preparation. EDA Library.
 
 ### 8. Final Project: House Sales in King County, USA
 - **File:** `Final_Project_House_Sales_in_King_Count_USA.ipynb`
